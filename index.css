@@ -1,9 +1,0 @@
-@tailwind base;
-@tailwind components;
-@tailwind utilities;
-
-@font-face {
-    font-family: appfont;
-    src: url(./assets/font/DMSans_18pt-Medium.ttf);
-  }
-  
